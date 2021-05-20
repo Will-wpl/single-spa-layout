@@ -7,9 +7,9 @@ module.exports = {
   },
   configureWebpack: {
     output: {
-      library: 'single-spa-layout-app',
+      library: 'single-spa-layout',
       libraryTarget: 'umd',
-      filename: 'single-spa-layout-app.js',
+      filename: 'single-spa-layout.js',
       path: path.resolve(__dirname, 'dist'),
     },
     plugins: [

@@ -1,5 +1,5 @@
 {
-  "name": "single-spa-layout-app",
+  "name": "single-spa-layout",
   "version": "0.2.5",
   "description": "Vue application with header, navbar and footer for be included in a single-spa application as registered app.",
   "main": "dist/single-spa-layout-app.umd.js",
@@ -30,7 +30,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jualoppaz/single-spa-layout-app.git"
+    "url": "https://github.com/Will-wpl/single-spa-layout.git"
   },
   "keywords": [
     "single-spa",
@@ -42,7 +42,7 @@
   ],
   "author": "Juan Manuel López Pazos",
   "bugs": {
-    "url": "https://github.com/jualoppaz/single-spa-layout-app/issues"
+    "url": "https://github.com/Will-wpl/single-spa-layout/issues"
   },
-  "homepage": "https://github.com/jualoppaz/single-spa-layout-app#readme"
+  "homepage": "https://github.com/Will-wpl/single-spa-layout#readme"
 }
