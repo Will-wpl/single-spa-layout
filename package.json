@@ -1,5 +1,5 @@
 {
-  "name": "single-spa-layout",
+  "name": "single-spa-layout-new",
   "version": "0.2.5",
   "description": "Vue application with header, navbar and footer for be included in a single-spa application as registered app.",
   "main": "dist/single-spa-layout-app.umd.js",
@@ -40,7 +40,7 @@
     "bootstrap-vue",
     "webpack"
   ],
-  "author": "Juan Manuel López Pazos",
+  "author": "PeiLong Wang",
   "bugs": {
     "url": "https://github.com/Will-wpl/single-spa-layout/issues"
   },

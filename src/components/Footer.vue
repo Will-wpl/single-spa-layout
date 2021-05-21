@@ -2,12 +2,12 @@
   <footer class="footer">
     <div class="container">
       <div class="text-center">
-        Copyright © 2020
-        <a href="http://www.juanmanuellopezpazos.es" target="_blank" id="personal-page-link"
-          >Juan Manuel López Pazos</a
+        Copyright © 2021
+        <a href="http://github.com/Will-wpl" target="_blank" id="personal-page-link"
+          >Will WPL</a
         >
         <a
-          href="https://github.com/jualoppaz/single-spa-login-example-with-npm-packages"
+          href="https://github.com/Will-wpl/single-spa-root"
           target="_blank"
           id="github-link"
         >
@@ -37,13 +37,6 @@ ul {
 li {
   display: inline-block;
   margin: 0 10px;
-}
-a {
-  color: #42b983;
-
-  &:hover {
-    color: #42b983;
-  }
 }
 
 footer {

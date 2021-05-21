@@ -37,19 +37,17 @@ h3 {
 ul {
   list-style-type: none;
   padding: 0;
-  text-align: center;
+  text-align: right;
   display: block;
 }
 li {
   display: inline-block;
   margin: 0 10px;
 }
-a {
-  color: #42b983;
-}
 
 #navbar ul {
   border-right: 1px solid #eee;
   padding-top: 76px;
+  box-shadow: 0px 0px 5px #ccc;
 }
 </style>
